@@ -68,7 +68,7 @@ int  main()
     return 0;
 }
 
-/* 请在这里填写答案 */
+/* 请在这里
 int Get_LinkList(LinkList H,ElemType key)
 {LinkList p=H;
  int count=0;
